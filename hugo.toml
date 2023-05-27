@@ -1,0 +1,4 @@
+baseURL = "https://blog.sunyz.net"
+languageCode = "zh-Hans"
+title = "Seven's Blog"
+theme = "hugo-theme-stack"
