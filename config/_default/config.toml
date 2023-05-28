@@ -1,2 +1,9 @@
-disqusShortname = "seven-blog"
+baseURL = "https://blog.sunyz.net"
+languageCode = "zh-Hans"
+paginate = 5
+title = "Seven's Blog"
+
 DefaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+
+disqusShortname = "seven-blog"
